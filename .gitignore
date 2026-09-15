@@ -1,0 +1,11 @@
+# Thư mục backup cụ thể
+/AWN_Version/backupsql/
+/AWN_Version/backupsrc/
+/backupsql/
+/backupsrc/
+
+# Các file log và file tạm (temp)
+*.log
+*.tmp
+*temp*
+*.cache
